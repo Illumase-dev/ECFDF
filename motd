@@ -1,1 +1,21 @@
-es isch en schöne tag zum usgang ha am abig :)
+test phase hat gestartet.
+
+Testanleitung für die MPDF-App
+
+Wir bitten Sie, die MPDF-App gründlich zu testen, um sicherzustellen, dass sie einwandfrei funktioniert und Ihren Anforderungen entspricht. Im Folgenden finden Sie eine Übersicht der Punkte, die Sie testen sollten:
+	1.	Grundlegende Funktionalitäten
+	•	App-Start und Anmeldung: Überprüfen Sie, ob die App ohne Verzögerungen startet und Sie sich problemlos anmelden können.
+	•	Navigation: Testen Sie die Benutzeroberfläche und stellen Sie sicher, dass Sie zwischen den verschiedenen Bereichen der App (z.B. Dashboard, Trainingspläne, Berichte) problemlos wechseln können.
+	•	Daten eingeben und speichern: Überprüfen Sie, ob Sie Ihre persönlichen Daten und Trainingsinformationen korrekt eingeben und speichern können.
+	•	Benachrichtigungen und Erinnerungen: Testen Sie, ob Benachrichtigungen und Erinnerungen (z.B. für geplante Übungen oder Meilensteine) korrekt angezeigt werden.
+	2.	Leistungsfähigkeit und Stabilität
+	•	Geschwindigkeit: Achten Sie darauf, ob die App auf Ihrem Gerät schnell und reibungslos läuft.
+	•	Abstürze und Fehler: Prüfen Sie, ob die App während der Nutzung abstürzt oder Fehler auftreten.
+	3.	Funktionen und Zusatzoptionen
+	•	Verfügbarkeit von Funktionen: Testen Sie alle verfügbaren Funktionen (z.B. Tracking von Fortschritten, Feedback-Funktionen, Berichtsgenerierung) und stellen Sie sicher, dass sie korrekt arbeiten.
+	•	Offline-Nutzung: Überprüfen Sie, ob die App auch offline funktioniert und Ihre Daten nach der nächsten Verbindung synchronisiert werden.
+	4.	Benutzerfreundlichkeit
+	•	Einstellungsoptionen: Testen Sie, ob alle Einstellungen einfach zugänglich und verständlich sind.
+	•	Barrierefreiheit: Prüfen Sie, ob die App für verschiedene Nutzertypen (z.B. mit visuellen oder motorischen Einschränkungen) gut zugänglich ist.
+	5.	Feedback und Erweiterungsmöglichkeiten
+	•	Vorschläge für neue Funktionen: Teilen Sie uns mit, ob Ihnen weitere Funktionen fehlen, die die App für Ihre Bedürfnisse verbessern würden. Gibt es Funktionen, die Sie benötigen, um Ihre militärische Ausbildung oder persönliche Entwicklung besser zu unterstützen?
